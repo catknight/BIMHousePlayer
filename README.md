@@ -13,13 +13,13 @@ UE4动态加载模型支持FBX/OBJ等等，使用assimp库。UI使用蓝图开�
 
 #### 效果图
 - 打开本地文件
-![输入图片说明](https://files.gitee.com/group1/M00/08/B5/PaAvDF0240GAS30FAAnOp_BR1rg116.png?token=ef544bae61dd306a6f52320fe7828438&ts=1563878482&attname=%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190723183650.png&disposition=attachment "打开本地文件")
+![打开本地文件](https://files.gitee.com/group1/M00/08/B5/PaAvDF0240GAS30FAAnOp_BR1rg116.png?token=690ef0bbd840ff96c4b7e85196e1a8c3&ts=1564022354&attname=%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190723183650.png&disposition=attachment)
 - 高亮，射线选取
-![输入图片说明](https://files.gitee.com/group1/M00/08/B5/PaAvDF0242GAKfC0ABEK46ZJrBw859.png?token=7f97c7b25fff3c4f10f0c2200576ebdf&ts=1563878551&attname=%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190723183542.png&disposition=attachment "高亮，射线选取")
+![高亮，射线选取](https://files.gitee.com/group1/M00/08/B5/PaAvDF0242GAKfC0ABEK46ZJrBw859.png?token=7f97c7b25fff3c4f10f0c2200576ebdf&ts=1563878551&attname=%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190723183542.png&disposition=attachment)
 - 碰撞检测
-![输入图片说明](https://files.gitee.com/group1/M00/08/B5/PaAvDF0243mAG9POACMWQuyCE4Y531.png?token=3c66c14750ba010e10e2236c10bfe662&ts=1563878564&attname=%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190723183702.png&disposition=attachment "碰撞检测")
+![碰撞检测](https://files.gitee.com/group1/M00/08/B5/PaAvDF0243mAG9POACMWQuyCE4Y531.png?token=3c66c14750ba010e10e2236c10bfe662&ts=1563878564&attname=%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190723183702.png&disposition=attachment)
 - 右键弹出菜单
-![输入图片说明](https://files.gitee.com/group1/M00/08/B5/PaAvDF025bCAX6ykAAvEt6_Aep0343.png?token=f1357abd8baf494b24a0ada49e07860e&ts=1563878840&attname=%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_222234.png&disposition=attachment "右键弹出菜单")
+![右键弹出菜单](https://files.gitee.com/group1/M00/08/B5/PaAvDF025bCAX6ykAAvEt6_Aep0343.png?token=f1357abd8baf494b24a0ada49e07860e&ts=1563878840&attname=%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_222234.png&disposition=attachment)
 
 #### 使用说明
 
